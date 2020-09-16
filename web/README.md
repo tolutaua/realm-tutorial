@@ -11,7 +11,7 @@ to automatically create TypeScript types based on the GraphQL schema.
 
 A working implementation, including generated code and fully-implemented source
 files, is available on the `master` branch. All you have to do is add your Realm
-App ID in `/src/RealmApp.tsx`:
+App ID in `/src/realm/RealmApp.tsx`:
 
 ```tsx
 const REALM_APP_ID = "task-tracker-tutorial-abcde";
